@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'metaioSDK_template' target in the 'metaioSDK_template' project
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
